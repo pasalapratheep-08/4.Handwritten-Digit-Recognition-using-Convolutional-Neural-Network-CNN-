@@ -1,7 +1,4 @@
-# Create README.md using pypandoc as required
-import pypandoc
 
-text = r"""
 # 🧠 Handwritten Digit Recognition using Convolutional Neural Network (CNN)
 
 ---
